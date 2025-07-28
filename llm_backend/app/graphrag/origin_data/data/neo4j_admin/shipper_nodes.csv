@@ -1,0 +1,11 @@
+shipperId:ID(Shipper),CompanyName,Phone,labels:LABEL
+1,顺丰速运,18585725686,Shipper
+2,京东物流,15158703001,Shipper
+3,中通快递,13386346348,Shipper
+4,圆通速递,15657252118,Shipper
+5,申通快递,18052551961,Shipper
+6,韵达快递,18196975673,Shipper
+7,百世快递,15358684939,Shipper
+8,天天快递,18649851746,Shipper
+9,德邦物流,14570684211,Shipper
+10,邮政EMS,14700791053,Shipper

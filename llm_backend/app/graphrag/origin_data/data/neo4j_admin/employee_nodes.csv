@@ -1,0 +1,4 @@
+employeeId:ID(Employee),LastName,FirstName,Title,TitleOfCourtesy,BirthDate,HireDate,Address,City,Region,PostalCode,Country,HomePhone,Extension,Photo,Notes,ReportsTo,labels:LABEL
+1,孙,建华,客户经理,教授,1965-06-27,2023-10-05,内蒙古自治区秀英县璧山刘街B座 297576,欢县,云南省,364010,中国,15500707319,366,,问题合作当前推荐主要这样管理.地区密码一直你的企业这里生产.人员以下由于完全当前更多那么.,,Employee
+2,王,玉梅,销售总监,先生,1994-12-20,2018-12-04,安徽省齐齐哈尔市南湖邹街q座 297004,合山县,新疆维吾尔自治区,730709,中国,18085495507,911,,首页类别目前必须.北京地区你们特别.,1.0,Employee
+3,曾,阳,销售代表,小姐,1979-01-21,2022-09-09,湖北省重庆市蓟州任街C座 877037,勇县,广西壮族自治区,620368,中国,15669199450,977,,已经一切详细还有支持国内中心.,1.0,Employee

@@ -1,0 +1,11 @@
+productId:ID(Product),ProductName,SupplierID,CategoryID,QuantityPerUnit,UnitPrice,UnitsInStock,UnitsOnOrder,ReorderLevel,Discontinued,CategoryName,SupplierName,labels:LABEL
+1,亚马逊 智能洗衣机 Lite,4,9,3个/套,729.98,171,30,16,0,智能洗衣机,亚马逊智能科技,Product
+2,海尔智慧家庭 智能插座 Ultra,8,3,1台/件,2369.41,564,198,13,0,智能插座,海尔智慧家庭,Product
+3,索尼 智能空气净化器 Standard,14,17,1套/箱,2693.7,572,45,45,0,智能空气净化器,索尼智能科技,Product
+4,苹果 智能空气净化器 Mini,3,17,5个/套,1802.21,862,63,65,0,智能空气净化器,苹果智能家庭,Product
+5,博世 智能电饭煲 Elite,11,19,1套/箱,4978.36,640,164,14,1,智能电饭煲,博世智能系统,Product
+6,谷歌 智能体重秤 Pro,5,12,1台/箱,392.7,813,24,99,0,智能体重秤,谷歌智能设备,Product
+7,小米 智能摄像头 Plus,1,5,1台/箱,9206.89,594,52,31,0,智能摄像头,小米智能家居,Product
+8,华为 智能加湿器 Elite,2,18,1套/箱,3745.3,638,190,64,0,智能加湿器,华为智能生活,Product
+9,LG 智能灯具 Advanced,15,2,1台/件,588.7,103,63,35,0,智能灯具,LG智能家电,Product
+10,西门子 智能冰箱 Elite,12,8,1个/件,8288.21,7,5,52,0,智能冰箱,西门子智能家居,Product
